@@ -1,0 +1,28 @@
+# Expo - React Native - Firebase Login
+## Setup this project
+
+
+1. Clone the project
+```
+git clone https://github.com/krycnylmz/Expo-React-Native-Firebase-Login-App.git
+```
+2. Go to the project directory
+```
+cd Expo-React-Native-Firebase-Login-App
+```
+3. Install npm packages
+```
+npm install
+```
+4. Change Firebase.js File
+```
+//replace this contstants with your firebaseConfigs
+const firebaseConfig = {};
+```
+
+5. Run the project
+```
+npx expo start
+```
+
+# Have fun!
